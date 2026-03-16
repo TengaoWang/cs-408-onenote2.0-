@@ -14,15 +14,15 @@
 - xx 记忆点：为作者当时考研基于自己遗忘点整理，可自行修改
 - 新增应用题 算法题，主要是 25 强化班咸鱼的 PPT（图片没截取到）
 - 真题回顾：统计作者历年大题写题情况
-![](更新后的 onenote/IntroductionsImages/ds.png)
-![](更新后的 onenote/IntroductionsImages/ds2.png)
+![](更新后的onenote/IntroductionsImages/ds.png)
+![](更新后的onenote/IntroductionsImages/ds2.png)
 
 2. 以计组为例
 - 新增 IO 完整操作，这里我记得写得比较乱，因为王道书中这个知识点模棱两可，作者只能从强化课，网络等众多地方提取内容
-![](更新后的 onenote/IntroductionsImages/PCP.png)
+![](更新后的onenote/IntroductionsImages/PCP.png)
 
 3. 以操作系统为例
 - 新增 PV 总结
-![](更新后的 onenote/IntroductionsImages/os.png)
+![](更新后的onenote/IntroductionsImages/os.png)
 
-----------
+-----
